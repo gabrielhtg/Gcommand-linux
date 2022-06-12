@@ -10,7 +10,7 @@ Berikut cara menggunakannya :
    git clone https://github.com/gabrielhtg/Gcommand-linux.git
    ```
 2. Copy file `.gabrielcommand` ke home directory kalian.
-3. Edit file `~/.zshrc` kalian. Tambahkan code berikut di line baru.
+3. Edit file `~/.zshrc` atau `/.bashrc` kalian. Tambahkan code berikut di line baru.
    ```
    source ~/.gabrielcommand
    ```
